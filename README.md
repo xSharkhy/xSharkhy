@@ -21,12 +21,3 @@
 <a href="https://github.com/xSharkhy/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xSharkhy&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
 </a>
-
-<div>
-  <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</div>
-
-<!-- ![Snake animation](https://github.com/Pepyn0/Pepyn0/blob/output/github-contribution-grid-snake.svg) -->
-
-------
-Credits: [Pepyn0](https://github.com/Pepyn0)
