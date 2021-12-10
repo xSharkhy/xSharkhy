@@ -1,9 +1,32 @@
-- 👋 Hi, I’m @xSharkhy
-- 👀 I’m interested in ...
-- 🌱 I’m currently studying WAD at IES Serpis, València.
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me at twitter (@Sharkhy_).
-<!---
-xSharkhy/xSharkhy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### My name is `Ismael Morejón`.
+
+📚 Currently studying a Higher Technician VT degree in Web Applications Development at IES Serpis, València.
+
+`¯\_(ツ)_/¯`
+
+### What I'm currently learning:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+## My activities
+
+<a href="https://github.com/xSharkhy/github-readme-stats">
+  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=xSharkhy&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
+</a>
+<a href="https://github.com/xSharkhy/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xSharkhy&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
+</a>
+
+<div>
+  <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</div>
+
+<!-- ![Snake animation](https://github.com/Pepyn0/Pepyn0/blob/output/github-contribution-grid-snake.svg) -->
+
+------
+Credits: [Pepyn0](https://github.com/Pepyn0)
