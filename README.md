@@ -17,7 +17,7 @@ const ISMAEL = {
         backEnd: {
             js: ["Node.js", "Express"],
             php: "Laravel",
-            pyhton: "Django"
+            pyhton: ["Django", "FastAPI"]
         },
         database: ["MongoDB", "MySQL/MariaDB"],
     },
