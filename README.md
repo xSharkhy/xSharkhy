@@ -1,25 +1,31 @@
 # ¡Hola! Soy Ismael Morejón 👋
 
-Soy Desarrollador Web recién titulado con ganas de aprender y aportar ideas!
+Desarrollador Web con foco en backend y una gran pasión por el aprendizaje constante. Me gusta crear soluciones eficientes y escalar ideas usando herramientas modernas. Últimamente he estado metiéndome de lleno en Node.js, Express, Playwright, Puppeteer y en el mundo frontend con Astro.
 
-Encuéntrame en LinkedIn.
+📌 Actualmente explorando más sobre automatización, scraping, DevOps y cloud.
+
+🔗 Encuéntrame en LinkedIn:
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismobla)
 
 ```javascript
 const ISMAEL = {
-    título: "Técnico Superior en Desarrollo de Aplicaciones Web",
+    título: "Full Stack & Data Integration Developer",
     tecnologías: {
+        backEnd: {
+            lenguaje: "JavaScript",
+            stack: ["Node.js", "Express"],
+            testingYScraping: ["Playwright", "Puppeteer"]
+        },
+        database: ["MongoDB", "Firebase" "MySQL/MariaDB"],
         frontEnd: {
             css: "TailwindCSS",
-            js: "React"
+            frameworks: ["Astro", "Angular"]
         },
-        backEnd: {
-            js: ["Node.js", "Express"],
-            php: "Laravel",
-            pyhton: ["Django", "FastAPI"]
-        },
-        database: ["MongoDB", "MySQL/MariaDB"],
+        otrosLenguajes: {
+            python: ["Django", "FastAPI"],
+            php: ["Laravel"]
+        }
     },
 };
 ```
