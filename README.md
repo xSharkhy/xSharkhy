@@ -15,7 +15,8 @@ const ISMAEL = {
         backEnd: {
             lenguaje: "JavaScript",
             stack: ["Node.js", "Express"],
-            testingYScraping: ["Playwright", "Puppeteer"]
+            testingYScraping: ["Playwright", "Puppeteer"],
+            cloud: ["Google Cloud Platform"]
         },
         database: ["MongoDB", "Firebase" "MySQL/MariaDB"],
         frontEnd: {
